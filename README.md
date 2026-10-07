@@ -11,7 +11,6 @@ automated pipeline polling **data.gov (US)** and **data.gov.uk (UK)**.
 | `economy-small-business.csv` / `.json` | 464 datasets: economy, business, employment, trade |
 | `general.csv` / `.json` | 267 datasets that didn't match a vertical |
 | `LICENSES.md` | License & attribution register — read before republishing |
-| `export-manifest.json` | Generation metadata and counts |
 
 ## Columns
 
