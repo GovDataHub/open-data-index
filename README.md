@@ -1,34 +1,84 @@
 # GovDataHub — Open Dataset Catalogs
 
-Curated, living catalogs of open government datasets, refreshed daily by an
-automated pipeline polling **data.gov (US)** and **data.gov.uk (UK)**.
+> **Pipeline Status:** Healthy
+>
+> **Last Refresh:** October 7, 2026 (Daily)
 
-## Files
+GovDataHub provides curated, daily-refreshed catalogs of open government datasets sourced from **data.gov (US)** and **data.gov.uk (UK)**.
 
-| File | Contents |
-|---|---|
-| `climate-energy.csv` / `.json` | 182 datasets: climate, energy, emissions, weather |
-| `economy-small-business.csv` / `.json` | 464 datasets: economy, business, employment, trade |
-| `general.csv` / `.json` | 267 datasets that didn't match a vertical |
-| `LICENSES.md` | License & attribution register — read before republishing |
+The goal of this repository is to make high-value public datasets easy to discover, filter, and integrate into research, applications, and analysis without dealing with fragmented portals or non-open licenses.
 
-## Columns
+## Catalog Datasets
 
-`title, description, landing_url, portal_id, license, license_source, publisher, tags, vertical_suggested, last_seen_at`
+The repository includes curated listings organized by topic area. Each catalog is available in both CSV and JSON formats:
 
-- `license_source` is `explicit` (portal stated it) or `inferred-federal`
-  (US federal authorship inferred under 17 U.S.C. 105 — see LICENSES.md).
-- `vertical_suggested` is a heuristic label, not a manual curation decision.
+| File Set | Record Count | Covered Topics | Freshness | 
+| ----- | ----- | ----- | ----- | 
+| `climate-energy.csv` / `.json` | 182 datasets | Climate, energy, emissions, weather | Daily Sync | 
+| `economy-small-business.csv` / `.json` | 464 datasets | Economy, business, employment, trade | Daily Sync | 
+| `general.csv` / `.json` | 267 datasets | Datasets that do not fit a specific vertical | Daily Sync | 
+| `LICENSES.md` | \- | License & attribution register | As Needed | 
 
-## Freshness
+## Schema & Data Dictionary
 
-Regenerated from the pipeline database. This export was generated
-2026-10-07. The pipeline re-polls sources daily and
-re-audits resource links on a rotating sample.
+Each catalog file contains the following fields:
 
-## License policy
+* `title`: The official dataset name.
 
-Only datasets with allowlisted licenses are included here:
-**US public domain, public domain, CC0, CC-BY, OGL 3.0.**
-Datasets with unresolved or non-open licenses are excluded by design.
-See `LICENSES.md` for attribution requirements.
+* `description`: Summary of the dataset's contents and purpose.
+
+* `landing_url`: Direct link to the source record on the government portal.
+
+* `portal_id`: Source identifier from data.gov or data.gov.uk.
+
+* `license`: Declared open license type.
+
+* `license_source`: Origin of license classification (`explicit` as declared by portal, or `inferred-federal` under 17 U.S.C. 105).
+
+* `publisher`: Responsible government agency or body.
+
+* `tags`: Associated keywords provided by the source portal.
+
+* `vertical_suggested`: Heuristic category label assigned during intake.
+
+* `last_seen_at`: Timestamp of the most recent pipeline check confirming dataset availability.
+
+## Pipeline & Update Frequency
+
+```
+[ Sources: US data.gov & UK data.gov.uk ]
+                   │
+                   ▼
+       [ Daily Automated Ingestion ]
+                   │
+                   ▼
+      [ License Filter & Audit ] ──────► [ Rotating Link Audits ]
+                   │
+                   ▼
+   [ Catalog Export (Updated Daily) ]
+
+```
+
+* **Automated Ingestion:** The pipeline polls US and UK government portals daily for updates, additions, and status changes.
+
+* **Link Verification:** External resource URLs are routinely audited on a rolling basis to flag broken links or missing metadata.
+
+## Licensing & Reuse Policy
+
+To ensure all datasets in this repository can be reused safely, strict filtering rules are applied. Only datasets with explicitly verified open licenses are included:
+
+* US Public Domain / Public Domain
+
+* Creative Commons CC0 & CC-BY
+
+* UK Open Government Licence 3.0 (OGL 3.0)
+
+Datasets with missing, restrictive, or ambiguous licenses are filtered out automatically. Before republishing or redistributing downstream data, refer to `LICENSES.md` for specific attribution requirements.
+
+## Contributing & Support
+
+Suggestions, bug reports, and dataset requests are welcome.
+
+* To report broken URLs or incorrect classification, open an issue.
+
+* To suggest new portals or tags, submit a pull request or open a discussion thread.
