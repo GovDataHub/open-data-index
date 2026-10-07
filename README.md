@@ -19,6 +19,12 @@ The repository includes curated listings organized by topic area. Each catalog i
 | `general.csv` / `.json` | 267 datasets | Datasets that do not fit a specific vertical | Daily Sync | 
 | `LICENSES.md` | \- | License & attribution register | As Needed | 
 
+## 📬 Get dataset alerts
+
+New datasets land daily. Get them in your inbox instead of checking back here:
+
+- **[Free weekly digest](https://substack.com/@govdatahub)** — the week's most notable new datasets, every Monday
+
 ## Schema & Data Dictionary
 
 Each catalog file contains the following fields:
