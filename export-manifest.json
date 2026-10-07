@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-10-07T21:52:48.861171+00:00",
+  "source": "GovDataHub pipeline (data.gov + data.gov.uk)",
+  "datasets_cleared": 913,
+  "datasets_excluded_unlicensed": 887,
+  "buckets": {
+    "climate-energy": 182,
+    "economy-small-business": 464,
+    "general": 267
+  },
+  "license_policy": "Only allowlisted licenses are exported: us-public-domain, public-domain, cc0, cc-by, ogl-3.0. See LICENSES.md for attribution requirements."
+}
