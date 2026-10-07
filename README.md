@@ -8,6 +8,12 @@ GovDataHub provides curated, daily-refreshed catalogs of open government dataset
 
 The goal of this repository is to make high-value public datasets easy to discover, filter, and integrate into research, applications, and analysis without dealing with fragmented portals or non-open licenses.
 
+## 📬 Get dataset alerts
+
+New datasets land daily. Get them in your inbox instead of checking back here:
+
+- **[Free weekly digest](https://substack.com/@govdatahub)** — the week's most notable new datasets, every Monday
+
 ## Catalog Datasets
 
 The repository includes curated listings organized by topic area. Each catalog is available in both CSV and JSON formats:
@@ -18,12 +24,6 @@ The repository includes curated listings organized by topic area. Each catalog i
 | `economy-small-business.csv` / `.json` | 464 datasets | Economy, business, employment, trade | Daily Sync | 
 | `general.csv` / `.json` | 267 datasets | Datasets that do not fit a specific vertical | Daily Sync | 
 | `LICENSES.md` | \- | License & attribution register | As Needed | 
-
-## 📬 Get dataset alerts
-
-New datasets land daily. Get them in your inbox instead of checking back here:
-
-- **[Free weekly digest](https://substack.com/@govdatahub)** — the week's most notable new datasets, every Monday
 
 ## Schema & Data Dictionary
 
