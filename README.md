@@ -8,7 +8,7 @@ GovDataHub provides curated, daily-refreshed catalogs of open government dataset
 
 The goal of this repository is to make high-value public datasets easy to discover, filter, and integrate into research, applications, and analysis without dealing with fragmented portals or non-open licenses.
 
-![Subscribe to the GovDataHub digest](https://img.shields.io/badge/Subscribe-GovDataHub_Digest-orange)
+[![Subscribe to the GovDataHub digest](https://img.shields.io/badge/Subscribe-GovDataHub_Digest-orange)](https://substack.com/@govdatahub)
 
 ## 📬 Get dataset alerts
 
