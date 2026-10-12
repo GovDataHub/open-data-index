@@ -10,6 +10,7 @@ identifiers:
     value: https://github.com/GovDataHub/open-data-index
     description: "GitHub repository"
 repository-code: "https://github.com/GovDataHub/open-data-index"
+doi: 10.5281/zenodo.23308617
 abstract: >-
   Curated, living catalogs of open government datasets across climate &
   energy and economy & small business, harvested from data.gov (US),
@@ -26,5 +27,3 @@ keywords:
   - economics
   - civic-tech
   - data-journalism
-# Add the Zenodo concept DOI here after the first archived release, e.g.:
-# doi: 10.5281/zenodo.xxxxxxx
