@@ -1,0 +1,37 @@
+name: Mirror catalogs to Hugging Face
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - repo: GovDataHub/climate-energy-open-datasets
+            files: "climate-energy.csv climate-energy.json"
+          - repo: GovDataHub/economy-small-business-open-datasets
+            files: "economy-small-business.csv economy-small-business.json"
+          - repo: GovDataHub/general-open-datasets
+            files: "general.csv general.json"
+    steps:
+      - name: Check out release files
+        uses: actions/checkout@v4
+
+      - name: Install Hugging Face CLI
+        run: pip install -U "huggingface_hub[cli]"
+
+      - name: Upload catalog files
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          set -euo pipefail
+          for f in ${{ matrix.files }} LICENSES.md export-manifest.json; do
+            huggingface-cli upload "${{ matrix.repo }}" "$f" "$f" \
+              --repo-type dataset \
+              --token "$HF_TOKEN"
+          done
+          echo "Mirrored ${{ matrix.repo }}"
