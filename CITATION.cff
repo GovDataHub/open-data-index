@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "GovDataHub — Open Government Dataset Catalogs"
+message: "If you use these catalogs, please cite them as below."
+type: dataset
+authors:
+  - given-names: Asher
+    family-names: Caulfield
+identifiers:
+  - type: url
+    value: https://github.com/GovDataHub/open-data-index
+    description: "GitHub repository"
+repository-code: "https://github.com/GovDataHub/open-data-index"
+abstract: >-
+  Curated, living catalogs of open government datasets across climate &
+  energy and economy & small business, harvested from data.gov (US),
+  data.gov.uk (UK), Socrata, Zenodo, Hugging Face, and national CKAN
+  portals (Canada, Australia, Argentina, Mexico). Every entry is license-verified (US public domain,
+  public domain, CC0, CC-BY, UK Open Government Licence v3.0) before
+  publication. Provided as CSV and JSON, one row per dataset.
+keywords:
+  - open-data
+  - data-catalog
+  - open-government-data
+  - climate-data
+  - energy-data
+  - economics
+  - civic-tech
+  - data-journalism
+# Add the Zenodo concept DOI here after the first archived release, e.g.:
+# doi: 10.5281/zenodo.xxxxxxx
