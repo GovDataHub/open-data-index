@@ -14,10 +14,12 @@ doi: 10.5281/zenodo.23308617
 abstract: >-
   Curated, living catalogs of open government datasets across climate &
   energy and economy & small business, harvested from data.gov (US),
-  data.gov.uk (UK), Socrata, Zenodo, Hugging Face, and national CKAN
-  portals (Canada, Australia, Argentina, Mexico). Every entry is license-verified (US public domain,
-  public domain, CC0, CC-BY, UK Open Government Licence v3.0) before
-  publication. Provided as CSV and JSON, one row per dataset.
+  data.gov.uk (UK), Socrata, Zenodo, Hugging Face, EIA, FRED, and
+  national CKAN portals (Canada, Australia, Argentina, Mexico). Every
+  entry is license-verified (US public domain, public domain, CC0,
+  CC-BY, UK Open Government Licence v3.0, Open Government Licence –
+  Canada family) before publication. Provided as CSV and JSON, one row
+  per dataset.
 keywords:
   - open-data
   - data-catalog

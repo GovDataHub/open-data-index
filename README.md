@@ -1,6 +1,6 @@
 # GovDataHub — Open Government Dataset Catalogs
 
-Curated, living catalogs of **open government datasets** across climate & energy and economy & small business, harvested from **data.gov (US)**, **data.gov.uk**, Socrata portals (US & EU), Zenodo, Hugging Face, and national open-data portals in Canada, Australia, Argentina, and Mexico.
+Curated, living catalogs of **open government datasets** across climate & energy and economy & small business, harvested from **data.gov (US)**, **data.gov.uk**, Socrata portals (US & EU), Zenodo, Hugging Face, the U.S. Energy Information Administration (EIA), Federal Reserve Economic Data (FRED), and national open-data portals in Canada, Australia, Argentina, and Mexico.
 
 Every entry is license-verified before publication — no fragmented portals, no license guesswork.
 
@@ -16,13 +16,13 @@ New datasets land regularly. Get the notable ones in your inbox instead of check
 
 ## What's here
 
-**2,913 license-cleared datasets**, one row per dataset, in both CSV and JSON.
+**3,927 license-cleared datasets**, one row per dataset, in both CSV and JSON.
 
 | File | Datasets | Covers |
 |---|---|---|
-| `climate-energy.csv` / `.json` | 704 | Climate, energy, emissions, weather |
-| `economy-small-business.csv` / `.json` | 807 | Economy, business, employment, trade |
-| `general.csv` / `.json` | 1,402 | Harvested datasets outside the two verticals |
+| `climate-energy.csv` / `.json` | 1,260 | Climate, energy, emissions, weather |
+| `economy-small-business.csv` / `.json` | 1,143 | Economy, business, employment, trade |
+| `general.csv` / `.json` | 1,524 | Harvested datasets outside the two verticals |
 | `LICENSES.md` | — | License & attribution register — read before republishing |
 | `export-manifest.json` | — | Generation metadata and counts |
 
@@ -30,9 +30,9 @@ New datasets land regularly. Get the notable ones in your inbox instead of check
 
 The catalogs are also mirrored as Hugging Face datasets, with tabular preview and Hub search:
 
-- [GovDataHub/climate-energy-open-datasets](https://huggingface.co/datasets/GovDataHub/climate-energy-open-datasets) — 704 datasets
-- [GovDataHub/economy-small-business-open-datasets](https://huggingface.co/datasets/GovDataHub/economy-small-business-open-datasets) — 807 datasets
-- [GovDataHub/general-open-datasets](https://huggingface.co/datasets/GovDataHub/general-open-datasets) — 1,402 datasets
+- [GovDataHub/climate-energy-open-datasets](https://huggingface.co/datasets/GovDataHub/climate-energy-open-datasets) — 1,260 datasets
+- [GovDataHub/economy-small-business-open-datasets](https://huggingface.co/datasets/GovDataHub/economy-small-business-open-datasets) — 1,143 datasets
+- [GovDataHub/general-open-datasets](https://huggingface.co/datasets/GovDataHub/general-open-datasets) — 1,524 datasets
 
 ## Quick start
 
@@ -56,9 +56,9 @@ for r in csv.DictReader(open('economy-small-business.csv')):
 
 ## License policy
 
-Only datasets with allowlisted licenses are published: **US public domain, public domain, CC0, CC-BY, Open Government Licence v3.0.**
+Only datasets with allowlisted licenses are published: **US public domain, public domain, CC0, CC-BY, Open Government Licence v3.0, and the Open Government Licence – Canada family (federal and provincial).**
 
-Datasets whose license could not be verified are **excluded, never guessed** — 2,663 harvested datasets are currently quarantined until their licensing checks out.
+Datasets whose license could not be verified are **excluded, never guessed** — 2,239 harvested datasets are currently quarantined until their licensing checks out.
 
 Some US rows carry `license_source: inferred-federal`: data.gov's API omits license fields, so these were classified by unambiguous federal authorship under **17 U.S.C. 105** (works of US federal employees). Contractor-produced data is excluded from this inference by design. See `LICENSES.md` for the full method and attribution requirements.
 
@@ -67,6 +67,12 @@ Some US rows carry `license_source: inferred-federal`: data.gov's API omits lice
 > Contains public sector information licensed under the Open Government Licence v3.0.
 
 Include the statement above (or a link to https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) wherever you republish these catalogs.
+
+**Attribution — OGL – Canada datasets:**
+
+> Contains information licensed under the Open Government Licence – Canada.
+
+For federal Canadian datasets include the statement above (or a link to https://open.canada.ca/en/open-government-licence-canada) wherever you republish these catalogs; provincial datasets carry the equivalent provincial licence — attribute the province named in each row's `publisher` column.
 
 ## For teams that ship on this data — Team Watch
 
@@ -106,7 +112,7 @@ This export was generated **2026-10-12**. The pipeline re-polls its sources dail
 
 ```
 GovDataHub (2026). GovDataHub — Open Government Dataset Catalogs.
-Harvested from data.gov, data.gov.uk, Socrata, Zenodo, Hugging Face, and national CKAN portals.
+Harvested from data.gov, data.gov.uk, Socrata, Zenodo, Hugging Face, EIA, FRED, and national CKAN portals.
 https://github.com/GovDataHub/open-data-index
 ```
 
@@ -136,5 +142,5 @@ Suggestions, bug reports, and dataset requests are welcome.
 ## Notes & caveats
 
 - These catalogs are a **metadata index**, not a data mirror.
-- **Data-quality correction (2026-10-12):** 205 datasets previously catalogued under the UK Open Government Licence v3.0 were found, on re-verification against the source APIs, to carry Canadian provincial open-government licences (Alberta, British Columbia, Nova Scotia, and others) or the federal Open Government Licence – Canada. They have been removed from these catalogs pending licence allow-list review. UK OGL 3.0 entries are now sourced only from UK portals.
+- **Data-quality correction (2026-10-12):** 205 datasets previously catalogued under the UK Open Government Licence v3.0 were found, on re-verification against the source APIs, to carry Canadian provincial open-government licences (Alberta, British Columbia, Nova Scotia, and others) or the federal Open Government Licence – Canada. They were removed from these catalogs pending licence allow-list review. UK OGL 3.0 entries are now sourced only from UK portals. **Resolved later on 2026-10-12:** the Open Government Licence – Canada family (federal and provincial) was allow-list approved, and those datasets are published again under their correct Canadian licences — 529 datasets in this release.
 - Vertical labels are heuristic; license labels are the one field we never approximate without provenance.
