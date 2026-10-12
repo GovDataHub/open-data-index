@@ -26,6 +26,14 @@ New datasets land regularly. Get the notable ones in your inbox instead of check
 | `LICENSES.md` | — | License & attribution register — read before republishing |
 | `export-manifest.json` | — | Generation metadata and counts |
 
+## Hugging Face mirrors
+
+The catalogs are also mirrored as Hugging Face datasets, with tabular preview and Hub search:
+
+- [GovDataHub/climate-energy-open-datasets](https://huggingface.co/datasets/GovDataHub/climate-energy-open-datasets) — 704 datasets
+- [GovDataHub/economy-small-business-open-datasets](https://huggingface.co/datasets/GovDataHub/economy-small-business-open-datasets) — 807 datasets
+- [GovDataHub/general-open-datasets](https://huggingface.co/datasets/GovDataHub/general-open-datasets) — 1,402 datasets
+
 ## Quick start
 
 ```python
