@@ -1,0 +1,44 @@
+# GovDataHub — Public Corrections Log
+
+GovDataHub's standard is zero license false positives. When we miss it, the error is recorded here: what happened, the cause, the scope, the fix, and the current state. Entries are not edited after publication except to append a dated update. Methodology principles are public; this log is how we are held to them.
+
+Each entry states: **date found · what happened · cause · scope · fix · current state**.
+
+---
+
+## 2026-10-11 — Canadian provincial licenses mislabeled as UK OGL 3.0
+
+**What happened.** Datasets harvested from Canadian sources were published in the GovDataHub catalogs labeled with the license `ogl-3.0` (UK Open Government Licence v3.0). They were not UK datasets and were not under that license. They were Canadian provincial open-government licenses — Alberta, Nova Scotia (including its Socrata portal), British Columbia, Prince Edward Island, Ontario, New Brunswick, and one each from Newfoundland and Labrador, Yukon, and the Northwest Territories — plus a small number of Canadian federal records.
+
+**Cause.** The license normalizer used by the harvesting pipeline contained a generic rule: any source license text containing the phrase "open government licence" was mapped to UK `ogl-3.0`. The rule matched on wording without checking jurisdiction. Canadian provincial licenses share that wording, so they were misclassified at ingest. A secondary defect in a license-variant ("v3") pattern was found and fixed during the same repair.
+
+**Scope.** 205 datasets were mislabeled in the published export:
+
+| Actual license (jurisdiction) | Datasets |
+|---|---:|
+| Open Government Licence — Alberta | 79 |
+| Open Government Licence — Nova Scotia | 60 |
+| Open Government Licence — British Columbia | 31 |
+| Open Government Licence — Prince Edward Island | 18 |
+| Open Government Licence — Ontario | 7 |
+| Open Government Licence — Canada (federal) | 5 |
+| Open Government Licence — New Brunswick | 2 |
+| Newfoundland and Labrador / Yukon / Northwest Territories | 1 each |
+| **Total** | **205** |
+
+A wrong license label is a wrong claim about reuse rights regardless of direction, and we treat any license mislabel as a severity-one defect.
+
+**Fix.**
+
+1. The generic wording rule was removed. License mapping now applies jurisdiction-specific rules and an explicit license-ID map *before* any generic text rule, and the "v3" variant defect was corrected.
+2. All 205 affected records in the database were relabeled to their correct licenses.
+3. Every affected record was re-verified individually against the live Canada CKAN and Socrata source records — label corrected only where the source record confirmed it.
+4. A corrected export was regenerated and published, superseding the affected figures.
+
+**Current state.** Corrected and closed. The corrected export contains **2,913 license-cleared datasets** (704 climate/energy, 807 economy/small-business, 1,402 general). The Canadian licenses (328 datasets labeled `ogl-canada` in total after relabeling, including the provincial variants) are **not** on the GovDataHub allow-list and remain quarantined — excluded from cleared catalogs unless and until they are approved as a separate, explicit decision. The 12 October 2026 quality report re-checked the published exports and found **0 allow-list violations**. The catalog release containing the correction is archived on Zenodo (concept DOI 10.5281/zenodo.23308617).
+
+**What changed so it does not recur.** Jurisdiction is now determined before license text is interpreted; any new generic license rule requires a jurisdiction guard; and a scheduled quality report re-checks exported records against the allow-list, so a mislabel of this class would surface in the report rather than in a reader's product.
+
+---
+
+*New entries are added at the top of the list, newest first. If you find an error in the catalog that is not recorded here, report it to support@govdatahub.com — confirmed reports are added to this log with the reporter's finding credited by date.*
