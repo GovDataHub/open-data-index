@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-10-12T03:31:19.059260+00:00",
+  "source": "GovDataHub pipeline (data.gov US, data.gov.uk, Socrata US/EU, Zenodo, Hugging Face, national CKAN portals: Canada, Australia, Argentina, Mexico; Wikidata/OpenAlex reference)",
+  "datasets_cleared": 2913,
+  "datasets_excluded_unlicensed": 2663,
+  "buckets": {
+    "climate-energy": 704,
+    "economy-small-business": 807,
+    "general": 1402
+  },
+  "license_policy": "Only allowlisted licenses are exported: us-public-domain, public-domain, cc0, cc-by, ogl-3.0. See LICENSES.md for attribution requirements."
+}
