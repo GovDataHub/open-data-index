@@ -10,7 +10,7 @@ Each entry states: **date found · what happened · cause · scope · fix · cur
 
 **What happened.** During internal beta testing, before public launch, datasets harvested from Canadian sources were labeled in the pre-release catalogs with the license `ogl-3.0` (UK Open Government Licence v3.0). They were not UK datasets and were not under that license. They were Canadian provincial open-government licenses — Alberta, Nova Scotia (including its Socrata portal), British Columbia, Prince Edward Island, Ontario, New Brunswick, and one each from Newfoundland and Labrador, Yukon, and the Northwest Territories — plus a small number of Canadian federal records.
 
-**Cause.** The license normalizer used by the harvesting pipeline contained a generic rule: any source license text containing the phrase "open government licence" was mapped to UK `ogl-3.0`. The rule matched on wording alone. Canadian provincial licenses share that wording, so they were misclassified at ingest. A secondary defect in a license-variant ("v3") pattern was found and fixed during the same repair.
+**Cause.** A classification rule in the harvesting pipeline mislabeled Canadian provincial licenses as UK `ogl-3.0`. A secondary defect in a license-variant ("v3") pattern was found and fixed during the same repair.
 
 **Scope.** 205 datasets were mislabeled in the pre-release export:
 
@@ -43,6 +43,6 @@ A wrong license label is a wrong claim about reuse rights regardless of directio
 
 *Update appended 2026-10-12: the Current state paragraph above was corrected the day this log was published — it originally described the quarantined Canadian set as "328 datasets including the provincial variants." The 328 figure is the federal `ogl-canada` label only; with provincial labels the set is 529. The paragraph now states both numbers.*
 
-*Update appended 2026-10-12: the entry's framing was revised — the incident occurred during internal beta testing, before public launch. Cause, scope, fix, and current state are unchanged.*
+*Update appended 2026-10-12: the entry's framing was revised — the incident occurred during internal beta testing, before public launch — and the cause description was shortened. Scope, fix, and current state are unchanged.*
 
 *New entries are added at the top of the list, newest first. If you find an error in the catalog that is not recorded here, report it to support@govdatahub.com — confirmed reports are added to this log with the reporter's finding credited by date.*
