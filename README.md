@@ -95,6 +95,12 @@ Send up to 20 datasets your product depends on and receive a written report with
 
 A fixed-scope audit of the dataset set you intend to ship commercially: provenance, license basis, and risk flags per dataset, in a written report. Quoted before work starts. A data-provenance audit, not legal advice.
 
+### Additional services
+
+- **Custom dataset sourcing — $500–$2,500 per project.** Tell us the dataset you need; we find it, verify the license, and deliver it normalized, with the license basis traced to the source record. Fixed quote before work starts.
+- **Point-in-time archive access — quoted per request.** Dataset versions as published in prior periods, drawn from our timestamped change archive (running since October 2026).
+- **Due-diligence audits — $2,000–$5,000 fixed scope.** For investors and acquirers: an audit of a target's open-data dependencies — provenance, license basis, and risk flags per dataset, in a written report. A data-provenance audit, not legal advice.
+
 Details and pilot terms: [govdatahub.com](https://govdatahub.com)
 
 ## Freshness
