@@ -68,6 +68,29 @@ Some US rows carry `license_source: inferred-federal`: data.gov's API omits lice
 
 Include the statement above (or a link to https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) wherever you republish these catalogs.
 
+## For teams that ship on this data — Team Watch
+
+The catalog above is free and stays free. **Team Watch** is the monitoring service built on the same pipeline, for teams whose products depend on specific datasets:
+
+- **Daily monitoring of your watchlist** — new, changed, removed, or unreachable datasets flagged within 24 hours of detection, with provenance and timestamps.
+- **License-change alerts** — a distinct alert class, because the license you cleared at integration time is not guaranteed to be the license in force today.
+- **Monthly license-clearance report** — every dataset on your watchlist with its license, license basis, source record, and last check date.
+- **CSV/JSON change feed** drawn from a timestamped change archive running since October 2026.
+
+**Pilot pricing: $99/month** (launch $199/month; annual $1,990). Alert precision is measured and reported to pilot customers monthly; our operating standard is ≥90% of alerts rated relevant. Quality rules — allow-listed licenses only, zero license false positives, every claim traceable to a source record — are published in full at [govdatahub.com](https://govdatahub.com), along with a public corrections log that includes our own errors.
+
+### Start free: Dataset Risk Check
+
+Send up to 20 datasets your product depends on and receive a written report within 5 days: license status and basis, freshness, and link health for each. Free, no obligation.
+
+**[Request a Dataset Risk Check](mailto:support@govdatahub.com?subject=Dataset%20Risk%20Check%20request)** — support@govdatahub.com
+
+### License Audit — $750–$2,500
+
+A fixed-scope audit of the dataset set you intend to ship commercially: provenance, license basis, and risk flags per dataset, in a written report. Quoted before work starts. A data-provenance audit, not legal advice.
+
+Details and pilot terms: [govdatahub.com](https://govdatahub.com)
+
 ## Freshness
 
 This export was generated **2026-10-12**. The pipeline re-polls its sources daily and audits resource links on a rotating sample; the catalogs on GitHub update with each published release (every release is human-reviewed before going out). Each row carries `last_seen_at` so you can check how fresh any entry is.
