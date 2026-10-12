@@ -30,7 +30,7 @@ jobs:
         run: |
           set -euo pipefail
           for f in ${{ matrix.files }} LICENSES.md export-manifest.json; do
-            huggingface-cli upload "${{ matrix.repo }}" "$f" "$f" \
+            hf upload "${{ matrix.repo }}" "$f" "$f" \
               --repo-type dataset \
               --token "$HF_TOKEN"
           done
