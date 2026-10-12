@@ -6,6 +6,8 @@ Every entry is license-verified before publication — no fragmented portals, no
 
 [![Subscribe to the GovDataHub digest](https://img.shields.io/badge/Subscribe-GovDataHub_Digest-orange)](https://govdatahub.substack.com)
 
+[![DOI](https://zenodo.org/badge/1409425269.svg)](https://doi.org/10.5281/zenodo.23308617)
+
 ## 📬 Get dataset alerts
 
 New datasets land regularly. Get the notable ones in your inbox instead of checking back here:
@@ -77,7 +79,7 @@ Harvested from data.gov, data.gov.uk, Socrata, Zenodo, Hugging Face, and nationa
 https://github.com/GovDataHub/open-data-index
 ```
 
-Machine-readable citation metadata lives in `CITATION.cff`. A Zenodo DOI will be added here once the archive integration is enabled.
+Machine-readable citation metadata lives in `CITATION.cff`. DOI (all versions): https://doi.org/10.5281/zenodo.23308617
 
 ## FAQ
 
