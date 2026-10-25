@@ -105,7 +105,7 @@ Details and pilot terms: [govdatahub.com](https://govdatahub.com)
 
 ## Freshness
 
-This export was generated **2026-10-25**. The pipeline re-polls its sources daily and audits resource links on a rotating sample; the catalogs on GitHub update with each published release (every release is human-reviewed before going out). Each row carries `last_seen_at` so you can check how fresh any entry is.
+This export was generated **2026-10-25**. The pipeline re-polls its sources daily and audits resource links on a rotating sample; the catalogs on GitHub update with each automatic weekly release. Each row carries `last_seen_at` so you can check how fresh any entry is.
 
 ## Columns
 
