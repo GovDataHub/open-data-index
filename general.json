@@ -6444,7 +6444,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"FORE-SCE\", \"Future\", \"Great Plains\", \"Land Cover\", \"Land Use\", \"Model\", \"Projected\", \"Scenario\", \"USGS\", \"USGS:59fc7d9be4b0531197b2ea75\", \"United States\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6457,7 +6457,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"FORE-SCE\", \"Future\", \"Great Plains\", \"Land Cover\", \"Land Use\", \"Model\", \"Prairie Potholes\", \"Projected\", \"Scenario\", \"USGS\", \"USGS:5b683db2e4b006a11f75b06a\", \"United States\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6470,7 +6470,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"FORE-SCE\", \"Future\", \"Great Plains\", \"Land Cover\", \"Land Use\", \"Model\", \"Projected\", \"Scenario\", \"USGS\", \"USGS:5c61bf67e4b0fe48cb32fd30\", \"United States\", \"Upper Missouri River Basin\", \"Upper Missouri River basin\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6483,7 +6483,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/LARC/SD/ASDC",
     "tags": "[\"earth-science-clouds-atmosphere-cloud-microphysics\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6496,7 +6496,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/LARC/SD/ASDC",
     "tags": "[\"atmosphere\", \"clouds\", \"earth-science\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6509,7 +6509,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/LARC/SD/ASDC",
     "tags": "[\"atmosphere\", \"atmospheric-chemistry\", \"atmospheric-water-vapor\", \"earth-science\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6522,7 +6522,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"Arizona\", \"California\", \"Colorado\", \"Florida\", \"Iowa\", \"Louisiana\", \"Michigan\", \"Mississippi\", \"Montana\", \"Nebraska\", \"Nevada\", \"New Mexico\", \"Oklahoma\", \"Oregon\", \"South Dakota\", \"Texas\", \"USGS:5beda2ede4b0b3fc5cf922b8\", \"United States\", \"Utah\", \"Washington\", \"Wisconsin\", \"Wyoming\", \"electromagnetic surveying\", \"frequency-domain\", \"geophysics\", \"geoscientificInformation\", \"geospatial datasets\", \"resistivity\", \"time-domain\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6535,7 +6535,7 @@
     "license_source": "inferred-federal",
     "publisher": "Bureau of Indian Affairs",
     "tags": "[\"BIL\", \"BOGS\", \"Bipartisan Infrastructure Law\", \"IRA\", \"Inflation Reduction Act\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6548,7 +6548,7 @@
     "license_source": "inferred-federal",
     "publisher": "Bureau of Indian Affairs",
     "tags": "[\"BIL\", \"BOGS\", \"Bipartisan Infrastructure Law\", \"IRA\", \"Inflation Reduction Act\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6561,7 +6561,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/GSFC/SED/ESD/TISL/GESDISC",
     "tags": "[\"earth-science-aerosols-atmosphere-aerosol-radiance\", \"earth-science-atmospheric-radiation-atmosphere-reflectance\", \"earth-science-clouds-atmosphere-cloud-properties\", \"earth-science-ocean-optics-oceans-reflectance\", \"earth-science-surface-radiative-properties-land-surface-reflectance\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6574,7 +6574,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/GSFC/SED/ESD/TISL/GESDISC",
     "tags": "[\"earth-science-aerosols-atmosphere-aerosol-radiance\", \"earth-science-atmospheric-radiation-atmosphere-reflectance\", \"earth-science-clouds-atmosphere-cloud-properties\", \"earth-science-ocean-optics-oceans-reflectance\", \"earth-science-surface-radiative-properties-land-surface-reflectance\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6639,7 +6639,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/GSFC/SED/ESD/TISL/GESDISC",
     "tags": "[\"earth-science-precipitation-atmosphere\", \"earth-science-precipitation-atmosphere-precipitation-rate\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6652,7 +6652,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/GSFC/SED/ESD/TISL/GESDISC",
     "tags": "[\"earth-science-precipitation-atmosphere\", \"earth-science-precipitation-atmosphere-precipitation-rate\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6665,7 +6665,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/MSFC/GHRC",
     "tags": "[\"earth-science-precipitation-atmosphere-droplet-size\", \"earth-science-precipitation-atmosphere-liquid-precipitation\", \"earth-science-precipitation-atmosphere-precipitation-amount\", \"earth-science-precipitation-atmosphere-precipitation-rate\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6678,7 +6678,7 @@
     "license_source": "inferred-federal",
     "publisher": "NASA/MSFC/GHRC",
     "tags": "[\"earth-science-platform-characteristics-spectral-engineering-flight-data-logs\", \"earth-science-radar-spectral-engineering-radar-imagery\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6691,7 +6691,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"Alabama\", \"Alaska\", \"Arizona\", \"Arkansas\", \"California\", \"Colorado\", \"Connecticut\", \"Delaware\", \"District of Columbia\", \"Florida\", \"Georgia\", \"Guam\", \"Hawaii\", \"Idaho\", \"Illinois\", \"Indiana\", \"Iowa\", \"Kansas\", \"Kentucky\", \"Louisiana\", \"Maine\", \"Maryland\", \"Massachusetts\", \"Michigan\", \"Minnesota\", \"Mississippi\", \"Missouri\", \"Montana\", \"Nebraska\", \"Nevada\", \"New Hampshire\", \"New Jersey\", \"New Mexico\", \"New York\", \"North Carolina\", \"North Dakota\", \"Ohio\", \"Oklahoma\", \"Oregon\", \"Pennsylvania\", \"Puerto Rico\", \"Rhode Island\", \"South Carolina\", \"South Dakota\", \"Tennessee\", \"Texas\", \"USGS:649d8a39d34ef77fcb03f8a6\", \"United States\", \"Utah\", \"Vermont\", \"Virgin Islands\", \"Virginia\", \"Washington\", \"West Virginia\", \"Wisconsin\", \"Wyoming\", \"commercial water use\", \"industrial water use\", \"public-supply water use\", \"water use\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6704,7 +6704,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"Alabama\", \"Alaska\", \"Arizona\", \"Arkansas\", \"California\", \"Colorado\", \"Connecticut\", \"Delaware\", \"District of Columbia\", \"Florida\", \"Georgia\", \"Guam\", \"Hawaii\", \"Idaho\", \"Illinois\", \"Indiana\", \"Iowa\", \"Kansas\", \"Kentucky\", \"Louisiana\", \"Maine\", \"Maryland\", \"Massachusetts\", \"Michigan\", \"Minnesota\", \"Mississippi\", \"Missouri\", \"Montana\", \"Nebraska\", \"Nevada\", \"New Hampshire\", \"New Jersey\", \"New Mexico\", \"New York\", \"North Carolina\", \"North Dakota\", \"Ohio\", \"Oklahoma\", \"Oregon\", \"Pennsylvania\", \"Puerto Rico\", \"Rhode Island\", \"South Carolina\", \"South Dakota\", \"Tennessee\", \"Texas\", \"USGS:6619557bd34e7eb9eb7dcaf0\", \"United States\", \"Utah\", \"Vermont\", \"Virgin Islands\", \"Virginia\", \"Washington\", \"West Virginia\", \"Wisconsin\", \"Wyoming\", \"industrial water use\", \"public supply water use\", \"water use\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6730,7 +6730,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6743,7 +6743,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6756,7 +6756,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6769,7 +6769,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6782,7 +6782,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6795,7 +6795,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6808,7 +6808,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6821,7 +6821,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6834,7 +6834,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6847,7 +6847,7 @@
     "license_source": "inferred-federal",
     "publisher": "Millennium Challenge Corporation",
     "tags": "[\"selection\"]",
-    "last_seen_at": "2026-10-25T11:57:12.195056+00:00",
+    "last_seen_at": "2026-10-26T11:48:56.157485+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6886,7 +6886,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"Cass County\", \"North Dakota\", \"USGS:5cb08f00e4b0c3b006557646\", \"soil-water storage\", \"water balance\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6899,7 +6899,7 @@
     "license_source": "inferred-federal",
     "publisher": "U.S. Geological Survey",
     "tags": "[\"Gandys Beach\", \"New Jersey\", \"USGS:6220a85ed34ee0c6b38b5255\", \"United States\", \"coastal ecosystems\"]",
-    "last_seen_at": "2026-10-25T11:55:48.742097+00:00",
+    "last_seen_at": "2026-10-26T11:47:21.326966+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6912,7 +6912,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6925,7 +6925,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6938,7 +6938,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6951,7 +6951,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6964,7 +6964,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6977,7 +6977,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -6990,7 +6990,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7003,7 +7003,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7016,7 +7016,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7029,7 +7029,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7042,7 +7042,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7055,7 +7055,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7068,7 +7068,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7081,7 +7081,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7094,7 +7094,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7107,7 +7107,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7120,7 +7120,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7133,7 +7133,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7146,7 +7146,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7159,7 +7159,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7172,7 +7172,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7185,7 +7185,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7198,7 +7198,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7211,7 +7211,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7224,7 +7224,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7237,7 +7237,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7250,7 +7250,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7263,7 +7263,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7276,7 +7276,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7289,7 +7289,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7302,7 +7302,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7315,7 +7315,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7328,7 +7328,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7341,7 +7341,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7354,7 +7354,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7367,7 +7367,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7380,7 +7380,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7393,7 +7393,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7406,7 +7406,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7419,7 +7419,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7432,7 +7432,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7445,7 +7445,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7458,7 +7458,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7471,7 +7471,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7484,7 +7484,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7497,7 +7497,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7510,7 +7510,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7523,7 +7523,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7536,7 +7536,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7549,7 +7549,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7562,7 +7562,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7575,7 +7575,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7588,7 +7588,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7601,7 +7601,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7614,7 +7614,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7627,7 +7627,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7640,7 +7640,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7653,7 +7653,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7666,7 +7666,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7679,7 +7679,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7692,7 +7692,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7705,7 +7705,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7718,7 +7718,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7731,7 +7731,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7744,7 +7744,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7757,7 +7757,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7770,7 +7770,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7783,7 +7783,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7796,7 +7796,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7809,7 +7809,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7822,7 +7822,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7835,7 +7835,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7848,7 +7848,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7861,7 +7861,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7874,7 +7874,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7887,7 +7887,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7900,7 +7900,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7913,7 +7913,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7926,7 +7926,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7939,7 +7939,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7952,7 +7952,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7965,7 +7965,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7978,7 +7978,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -7991,7 +7991,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8004,7 +8004,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8017,7 +8017,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8030,7 +8030,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8043,7 +8043,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8056,7 +8056,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8069,7 +8069,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8082,7 +8082,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8095,7 +8095,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8108,7 +8108,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8121,7 +8121,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8134,7 +8134,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8147,7 +8147,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8160,7 +8160,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8173,7 +8173,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8186,7 +8186,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8199,7 +8199,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8212,7 +8212,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8225,7 +8225,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8238,7 +8238,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8251,7 +8251,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8264,7 +8264,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8277,7 +8277,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8290,7 +8290,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8303,7 +8303,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8316,7 +8316,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8329,7 +8329,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8342,7 +8342,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8355,7 +8355,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8368,7 +8368,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8381,7 +8381,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8394,7 +8394,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8407,7 +8407,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8420,7 +8420,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8433,7 +8433,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8446,7 +8446,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8459,7 +8459,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8472,7 +8472,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8485,7 +8485,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8498,7 +8498,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8511,7 +8511,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8524,7 +8524,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8537,7 +8537,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8550,7 +8550,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8563,7 +8563,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8576,7 +8576,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8589,7 +8589,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8602,7 +8602,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8615,7 +8615,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8628,7 +8628,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8641,7 +8641,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8654,7 +8654,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8667,7 +8667,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8680,7 +8680,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8693,7 +8693,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8706,7 +8706,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8719,7 +8719,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8732,7 +8732,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8745,7 +8745,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8758,7 +8758,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8771,7 +8771,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8784,7 +8784,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8797,7 +8797,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8810,7 +8810,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8823,7 +8823,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8836,7 +8836,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8849,7 +8849,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8862,7 +8862,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8875,7 +8875,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8888,7 +8888,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8901,7 +8901,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8914,7 +8914,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8927,7 +8927,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8940,7 +8940,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8953,7 +8953,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8966,7 +8966,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8979,7 +8979,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -8992,7 +8992,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9005,7 +9005,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9018,7 +9018,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9031,7 +9031,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9044,7 +9044,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9057,7 +9057,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9070,7 +9070,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9083,7 +9083,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9096,7 +9096,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9109,7 +9109,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9122,7 +9122,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9135,7 +9135,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9148,7 +9148,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9161,7 +9161,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9174,7 +9174,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9187,7 +9187,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9200,7 +9200,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9213,7 +9213,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9226,7 +9226,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9239,7 +9239,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9252,7 +9252,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9265,7 +9265,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9278,7 +9278,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9291,7 +9291,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9304,7 +9304,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9317,7 +9317,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9330,7 +9330,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9343,7 +9343,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9356,7 +9356,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9369,7 +9369,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9382,7 +9382,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9395,7 +9395,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9408,7 +9408,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9421,7 +9421,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9434,7 +9434,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9447,7 +9447,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9460,7 +9460,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9473,7 +9473,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9486,7 +9486,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9499,7 +9499,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9512,7 +9512,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9525,7 +9525,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9538,7 +9538,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9551,7 +9551,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9564,7 +9564,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9577,7 +9577,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9590,7 +9590,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9603,7 +9603,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9616,7 +9616,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9629,7 +9629,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9642,7 +9642,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9655,7 +9655,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9668,7 +9668,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9681,7 +9681,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9694,7 +9694,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9707,7 +9707,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9720,7 +9720,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9733,7 +9733,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9746,7 +9746,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9759,7 +9759,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9772,7 +9772,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9785,7 +9785,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9798,7 +9798,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9811,7 +9811,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9824,7 +9824,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9837,7 +9837,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9850,7 +9850,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9863,7 +9863,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9876,7 +9876,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9889,7 +9889,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9902,7 +9902,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9915,7 +9915,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9928,7 +9928,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9941,7 +9941,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9954,7 +9954,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9967,7 +9967,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9980,7 +9980,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -9993,7 +9993,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10006,7 +10006,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10019,7 +10019,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10032,7 +10032,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10045,7 +10045,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10058,7 +10058,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10071,7 +10071,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10084,7 +10084,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10097,7 +10097,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10110,7 +10110,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10123,7 +10123,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10136,7 +10136,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10149,7 +10149,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10162,7 +10162,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10175,7 +10175,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10188,7 +10188,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10201,7 +10201,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10214,7 +10214,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10227,7 +10227,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10240,7 +10240,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10253,7 +10253,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10266,7 +10266,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10279,7 +10279,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10292,7 +10292,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10305,7 +10305,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10318,7 +10318,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10331,7 +10331,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10344,7 +10344,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10357,7 +10357,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10370,7 +10370,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10383,7 +10383,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10396,7 +10396,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10409,7 +10409,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10422,7 +10422,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10435,7 +10435,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10448,7 +10448,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10461,7 +10461,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10474,7 +10474,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10487,7 +10487,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10500,7 +10500,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10513,7 +10513,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10526,7 +10526,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10539,7 +10539,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10552,7 +10552,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10565,7 +10565,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10578,7 +10578,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10591,7 +10591,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10604,7 +10604,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10617,7 +10617,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10630,7 +10630,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10643,7 +10643,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10656,7 +10656,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10669,7 +10669,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10682,7 +10682,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10695,7 +10695,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10708,7 +10708,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10721,7 +10721,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10734,7 +10734,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10747,7 +10747,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10760,7 +10760,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10773,7 +10773,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10786,7 +10786,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10799,7 +10799,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10812,7 +10812,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10825,7 +10825,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10838,7 +10838,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10851,7 +10851,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10864,7 +10864,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10877,7 +10877,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10890,7 +10890,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10903,7 +10903,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10916,7 +10916,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10929,7 +10929,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10942,7 +10942,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10955,7 +10955,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10968,7 +10968,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10981,7 +10981,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -10994,7 +10994,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11007,7 +11007,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11020,7 +11020,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11033,7 +11033,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11046,7 +11046,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11059,7 +11059,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11072,7 +11072,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11085,7 +11085,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11098,7 +11098,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11111,7 +11111,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11124,7 +11124,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11137,7 +11137,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11150,7 +11150,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11163,7 +11163,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11176,7 +11176,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11189,7 +11189,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11202,7 +11202,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11215,7 +11215,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11228,7 +11228,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11241,7 +11241,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11254,7 +11254,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11267,7 +11267,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11280,7 +11280,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11293,7 +11293,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11306,7 +11306,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11319,7 +11319,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11332,7 +11332,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11345,7 +11345,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11358,7 +11358,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11371,7 +11371,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11384,7 +11384,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11397,7 +11397,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11410,7 +11410,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11423,7 +11423,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11436,7 +11436,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11449,7 +11449,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11462,7 +11462,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11475,7 +11475,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11488,7 +11488,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11501,7 +11501,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11514,7 +11514,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11527,7 +11527,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11540,7 +11540,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11553,7 +11553,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11566,7 +11566,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11579,7 +11579,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11592,7 +11592,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11605,7 +11605,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11618,7 +11618,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11631,7 +11631,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11644,7 +11644,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11657,7 +11657,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11670,7 +11670,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11683,7 +11683,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11696,7 +11696,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11709,7 +11709,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11722,7 +11722,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11735,7 +11735,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11748,7 +11748,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11761,7 +11761,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11774,7 +11774,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11787,7 +11787,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11800,7 +11800,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11813,7 +11813,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11826,7 +11826,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11839,7 +11839,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11852,7 +11852,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11865,7 +11865,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11878,7 +11878,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11891,7 +11891,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11904,7 +11904,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11917,7 +11917,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11930,7 +11930,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11943,7 +11943,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11956,7 +11956,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11969,7 +11969,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11982,7 +11982,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -11995,7 +11995,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12008,7 +12008,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12021,7 +12021,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12034,7 +12034,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:55:35.671048+00:00",
+    "last_seen_at": "2026-10-26T11:47:04.831504+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12047,7 +12047,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12060,7 +12060,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12073,7 +12073,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12086,7 +12086,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12099,7 +12099,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12112,7 +12112,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12125,7 +12125,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12138,7 +12138,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12151,7 +12151,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12164,7 +12164,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12177,7 +12177,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12190,7 +12190,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12203,7 +12203,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12216,7 +12216,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12229,7 +12229,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12242,7 +12242,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12255,7 +12255,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12268,7 +12268,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12281,7 +12281,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12294,7 +12294,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12307,7 +12307,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12320,7 +12320,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12333,7 +12333,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12346,7 +12346,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12359,7 +12359,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12372,7 +12372,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12385,7 +12385,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12398,7 +12398,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12411,7 +12411,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12424,7 +12424,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12437,7 +12437,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12450,7 +12450,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12463,7 +12463,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12476,7 +12476,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12489,7 +12489,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12502,7 +12502,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12515,7 +12515,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12528,7 +12528,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12541,7 +12541,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12554,7 +12554,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12567,7 +12567,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12580,7 +12580,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12593,7 +12593,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12606,7 +12606,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12619,7 +12619,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12632,7 +12632,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12645,7 +12645,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12658,7 +12658,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12671,7 +12671,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12684,7 +12684,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12697,7 +12697,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12710,7 +12710,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12723,7 +12723,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12736,7 +12736,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12749,7 +12749,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12762,7 +12762,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12775,7 +12775,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12788,7 +12788,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12801,7 +12801,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12814,7 +12814,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12827,7 +12827,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12840,7 +12840,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12853,7 +12853,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12866,7 +12866,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12879,7 +12879,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12892,7 +12892,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12905,7 +12905,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12918,7 +12918,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12931,7 +12931,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12944,7 +12944,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12957,7 +12957,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12970,7 +12970,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12983,7 +12983,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -12996,7 +12996,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13009,7 +13009,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13022,7 +13022,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13035,7 +13035,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13048,7 +13048,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13061,7 +13061,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[\"Species distribution\"]",
-    "last_seen_at": "2026-10-25T11:55:56.535632+00:00",
+    "last_seen_at": "2026-10-26T11:47:29.747357+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13087,7 +13087,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13100,7 +13100,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13113,7 +13113,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13126,7 +13126,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13139,7 +13139,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13152,7 +13152,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13165,7 +13165,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13178,7 +13178,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13191,7 +13191,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13204,7 +13204,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13217,7 +13217,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13230,7 +13230,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13243,7 +13243,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13256,7 +13256,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13269,7 +13269,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13282,7 +13282,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -13295,7 +13295,7 @@
     "license_source": "explicit",
     "publisher": null,
     "tags": "[]",
-    "last_seen_at": "2026-10-25T11:56:05.006620+00:00",
+    "last_seen_at": "2026-10-26T11:47:41.248479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18612,7 +18612,7 @@
     "license_source": "explicit",
     "publisher": "OpenAlex (OurResearch)",
     "tags": "[\"scholarly\", \"citations\", \"reference\", \"snapshot\"]",
-    "last_seen_at": "2026-10-23T12:35:54.635639+00:00",
+    "last_seen_at": "2026-10-26T12:31:27.711931+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18625,7 +18625,7 @@
     "license_source": "explicit",
     "publisher": "data.novascotia.ca",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:00.569311+00:00",
+    "last_seen_at": "2026-10-26T11:57:09.929536+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18638,7 +18638,7 @@
     "license_source": "explicit",
     "publisher": "data.novascotia.ca",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:02.787337+00:00",
+    "last_seen_at": "2026-10-26T11:57:15.418251+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18664,7 +18664,7 @@
     "license_source": "explicit",
     "publisher": "data.novascotia.ca",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:02.803138+00:00",
+    "last_seen_at": "2026-10-26T11:57:15.429935+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18677,7 +18677,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:29.842920+00:00",
+    "last_seen_at": "2026-10-26T11:57:47.061554+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18690,7 +18690,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838633+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510194+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18716,7 +18716,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838400+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510257+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18742,7 +18742,7 @@
     "license_source": "explicit",
     "publisher": "data.ramseycountymn.gov",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:23.400238+00:00",
+    "last_seen_at": "2026-10-26T11:57:39.315374+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18755,7 +18755,7 @@
     "license_source": "explicit",
     "publisher": "Department of Natural Resources and Environmental Control",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:16.740201+00:00",
+    "last_seen_at": "2026-10-26T11:57:32.822051+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18768,7 +18768,7 @@
     "license_source": "explicit",
     "publisher": "data.novascotia.ca",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:02.787087+00:00",
+    "last_seen_at": "2026-10-26T11:57:15.417915+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18794,7 +18794,7 @@
     "license_source": "explicit",
     "publisher": "Department of Natural Resources and Environmental Control, Division of Energy and Climate, Energy Programs",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:16.729645+00:00",
+    "last_seen_at": "2026-10-26T11:57:32.808638+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18807,7 +18807,7 @@
     "license_source": "explicit",
     "publisher": "City and county of Denver",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:23.391455+00:00",
+    "last_seen_at": "2026-10-26T11:57:39.314471+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18820,7 +18820,7 @@
     "license_source": "explicit",
     "publisher": "San Mateo County Association of Realtors",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:25.740560+00:00",
+    "last_seen_at": "2026-10-26T11:57:42.098838+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18833,7 +18833,7 @@
     "license_source": "explicit",
     "publisher": "data.cityofgainesville.org",
     "tags": "[]",
-    "last_seen_at": "2026-10-24T12:10:55.978826+00:00",
+    "last_seen_at": "2026-10-26T11:57:47.067520+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18859,7 +18859,7 @@
     "license_source": "explicit",
     "publisher": "data.novascotia.ca",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:04:58.360424+00:00",
+    "last_seen_at": "2026-10-26T11:57:06.875962+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18872,7 +18872,7 @@
     "license_source": "explicit",
     "publisher": "County of San Mateo Department of Housing",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:25.749216+00:00",
+    "last_seen_at": "2026-10-26T11:57:42.099273+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18885,7 +18885,7 @@
     "license_source": "explicit",
     "publisher": "Bureau of the Census",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.844017+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510276+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18898,7 +18898,7 @@
     "license_source": "explicit",
     "publisher": "data.colorado.gov",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:16.726258+00:00",
+    "last_seen_at": "2026-10-26T11:57:32.813406+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18924,7 +18924,7 @@
     "license_source": "explicit",
     "publisher": "St. Louis Federal Reserve",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:29.843330+00:00",
+    "last_seen_at": "2026-10-26T11:57:47.064786+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18950,7 +18950,7 @@
     "license_source": "explicit",
     "publisher": "St. Louis Federal Reserve",
     "tags": "[]",
-    "last_seen_at": "2026-10-24T12:10:53.807625+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.509899+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18963,7 +18963,7 @@
     "license_source": "explicit",
     "publisher": "Small Business Administration",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:20.539462+00:00",
+    "last_seen_at": "2026-10-26T11:57:35.831592+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18976,7 +18976,7 @@
     "license_source": "explicit",
     "publisher": "Department of State",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:20.541357+00:00",
+    "last_seen_at": "2026-10-26T11:57:35.831943+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -18989,7 +18989,7 @@
     "license_source": "explicit",
     "publisher": "Port of Los Angeles",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:23.387699+00:00",
+    "last_seen_at": "2026-10-26T11:57:39.314233+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19002,7 +19002,7 @@
     "license_source": "explicit",
     "publisher": "Port of Los Angeles",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:20.541574+00:00",
+    "last_seen_at": "2026-10-26T11:57:35.832094+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19015,7 +19015,7 @@
     "license_source": "explicit",
     "publisher": "Port of Los Angeles",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:23.388129+00:00",
+    "last_seen_at": "2026-10-26T11:57:39.314823+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19028,7 +19028,7 @@
     "license_source": "explicit",
     "publisher": "Port of Los Angeles",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:23.387784+00:00",
+    "last_seen_at": "2026-10-26T11:57:35.832162+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19041,7 +19041,7 @@
     "license_source": "explicit",
     "publisher": "Department of Environmental Protection",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:16.734755+00:00",
+    "last_seen_at": "2026-10-26T11:57:32.822274+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19054,7 +19054,7 @@
     "license_source": "explicit",
     "publisher": "Booz Allen Hamilton and TSS-Transport Simulation Systems",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:04:58.350687+00:00",
+    "last_seen_at": "2026-10-26T11:57:06.876044+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19067,7 +19067,7 @@
     "license_source": "explicit",
     "publisher": "City of Austin, Texas - data.austintexas.gov",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:23.387899+00:00",
+    "last_seen_at": "2026-10-26T11:57:39.314364+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19080,7 +19080,7 @@
     "license_source": "explicit",
     "publisher": "data.ramseycountymn.gov",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:25.753153+00:00",
+    "last_seen_at": "2026-10-26T11:57:42.099349+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19093,7 +19093,7 @@
     "license_source": "explicit",
     "publisher": "Texas Comptroller of Public Accounts",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838457+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510296+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19106,7 +19106,7 @@
     "license_source": "explicit",
     "publisher": "data.novascotia.ca",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:02.787176+00:00",
+    "last_seen_at": "2026-10-26T11:57:15.429867+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19119,7 +19119,7 @@
     "license_source": "explicit",
     "publisher": "City of Austin, Texas - data.austintexas.gov",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:02.786828+00:00",
+    "last_seen_at": "2026-10-26T11:57:15.417455+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19132,7 +19132,7 @@
     "license_source": "explicit",
     "publisher": "Department of Public Works",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:04:56.186906+00:00",
+    "last_seen_at": "2026-10-26T11:57:04.323430+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19145,7 +19145,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838362+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510236+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19158,7 +19158,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:25.751785+00:00",
+    "last_seen_at": "2026-10-26T11:57:42.099370+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19171,7 +19171,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838537+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510335+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19184,7 +19184,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.844200+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510870+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19197,7 +19197,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838057+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.509805+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19223,7 +19223,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.837962+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.509858+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19236,7 +19236,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commisstion",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838652+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510046+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19249,7 +19249,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.844097+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.510714+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19262,7 +19262,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-24T12:10:53.807377+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.509942+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19301,7 +19301,7 @@
     "license_source": "explicit",
     "publisher": "Texas Racing Commission",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:27.838247+00:00",
+    "last_seen_at": "2026-10-26T11:57:44.509529+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19327,7 +19327,7 @@
     "license_source": "explicit",
     "publisher": "Regio-Eval@ec.europa.eu",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:36.105625+00:00",
+    "last_seen_at": "2026-10-26T11:57:53.742740+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19340,7 +19340,7 @@
     "license_source": "explicit",
     "publisher": "Comune di Isso",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:45.117039+00:00",
+    "last_seen_at": "2026-10-26T11:58:03.466957+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19353,7 +19353,7 @@
     "license_source": "explicit",
     "publisher": "London Borough of Camden Council",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:45.116409+00:00",
+    "last_seen_at": "2026-10-26T11:58:03.449251+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19366,7 +19366,7 @@
     "license_source": "explicit",
     "publisher": "London Borough of Camden Council",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:45.116429+00:00",
+    "last_seen_at": "2026-10-26T11:58:03.448996+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19379,7 +19379,7 @@
     "license_source": "explicit",
     "publisher": "London Borough of Camden Council",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:45.116146+00:00",
+    "last_seen_at": "2026-10-26T11:58:03.447918+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19392,7 +19392,7 @@
     "license_source": "explicit",
     "publisher": "London Borough of Camden Council",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:45.116284+00:00",
+    "last_seen_at": "2026-10-26T11:58:03.448881+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19405,7 +19405,7 @@
     "license_source": "explicit",
     "publisher": "Companies House",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:51.199687+00:00",
+    "last_seen_at": "2026-10-26T11:58:10.486659+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19431,7 +19431,7 @@
     "license_source": "explicit",
     "publisher": "DG REGIO",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:36.105529+00:00",
+    "last_seen_at": "2026-10-26T11:57:53.742353+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19444,7 +19444,7 @@
     "license_source": "explicit",
     "publisher": "Department for Work and Pensions",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:05:45.117091+00:00",
+    "last_seen_at": "2026-10-26T11:58:03.467263+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19483,7 +19483,7 @@
     "license_source": "explicit",
     "publisher": "Wikimedia Foundation",
     "tags": "[\"knowledge-graph\", \"linked-data\", \"reference\"]",
-    "last_seen_at": "2026-10-23T12:35:53.498680+00:00",
+    "last_seen_at": "2026-10-26T12:31:26.534659+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -19890,6 +19890,19 @@
     "vertical_suggested": "general"
   },
   {
+    "id": "zenodo:23649919",
+    "portal_id": "zenodo",
+    "title": "Beachwatch swim sites with pollution forecasts and latest water quality, New South Wales",
+    "description": "Every NSW swim site that Beachwatch monitors, with today&#x27;s pollution forecast, the latest water quality result and the site&#x27;s location. Read daily as a live feed. This is the 2026-10-26 version of this dataset on publicdata.au, with 246 rows and 9 fields. The same version is kept at https://publicdata.au/d/nsw-beachwatch-sites/v/2026-10-26/ in 11 formats, with every earlier version and a query API. Each Zenodo version of this record is one publicdata.au version. The data is published by NSW Department of Climate Change, Energy, the Environment and Water under CC BY 4.0, https://creativecommons.org/licenses/by/4.0/ . The licence requires this attribution: NSW Department of Climate Change, Energy, the Environment and Water, NSW Government, Beachwatch, sourced 25 October 2026, https://data.nsw.gov.au/data/dataset/beachwatch, licensed under CC BY 4.0. This is an independent republication. The publisher has not endorsed this site. The rows are in data.parquet, data.csv, data.json and data.xlsx. schema.json describes the fields, and publicdata.json names the version, licence, attribution and the SHA-256 of the publisher's file. DOI: 10.5281/zenodo.23649919",
+    "landing_url": "https://zenodo.org/records/23649919",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "NSW Department of Climate Change, Energy, the Environment and Water",
+    "tags": "[\"Australia\", \"government open data\", \"publicdata.au\", \"beach water quality\", \"pollution forecast\", \"swimming\", \"Beachwatch\", \"swim sites\", \"DCCEEW\", \"New South Wales\", \"Beachwatch NSW water quality\", \"Is it safe to swim at my beach NSW\", \"Sydney beach pollution forecast\", \"NSW swim site water quality results\"]",
+    "last_seen_at": "2026-10-26T11:58:53.758930+00:00",
+    "vertical_suggested": "general"
+  },
+  {
     "id": "zenodo:23407800",
     "portal_id": "zenodo",
     "title": "Beyond Digitalization: Mapping the Digital Capability–ESG Nexus in Sustainable Supply Chains",
@@ -19912,7 +19925,7 @@
     "license_source": "explicit",
     "publisher": "Wright, Craig",
     "tags": "[\"location strategy\", \"foreign direct investment\", \"internationalization\", \"demographic change\", \"labour migration\", \"investment horizon\"]",
-    "last_seen_at": "2026-10-25T12:06:50.763635+00:00",
+    "last_seen_at": "2026-10-26T11:59:19.520727+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -20150,6 +20163,19 @@
     "vertical_suggested": "general"
   },
   {
+    "id": "zenodo:23661018",
+    "portal_id": "zenodo",
+    "title": "DEGLOBALIZATSIYA TENDENSIYALARI: PROTEKSIONIZM VA SAVDO URUSHLARI ZAMONAVIY JAHON IQTISODIYOTIDA",
+    "description": "Berilgan maqolada zamonaviy jahon iqtisodiyotida deglobalizatsiya jarayonlarining kuchayishi, proteksionistik siyosatning kengayishi va savdo urushlarining xalqaro iqtisodiy munosabatlarga ta&rsquo;siri o&lsquo;rganiladi. Tadqiqotda global savdoning rivojlanish tendensiyalari, bojxona tariflari va savdo cheklovlarining iqtisodiy oqibatlari, xalqaro ishlab chiqarish zanjirlaridagi o&lsquo;zgarishlar hamda davlatlarning iqtisodiy xavfsizlikni ta&rsquo;minlashga qaratilgan choralari tahlil qilinadi. Jahon savdo tashkiloti (JST), BMTning Savdo va taraqqiyot bo&lsquo;yicha konferensiyasi (UNCTAD) hamda boshqa xalqaro tashkilotlarning ma&rsquo;lumotlari tadqiqotning daliliy asosini tashkil etadi. Shuningdek, deglobalizatsiya sharoitida rivojlanayotgan mamlakatlar, xususan, O&lsquo;zbekiston uchun yuzaga keladigan iqtisodiy imkoniyatlar va xatarlar ko&lsquo;rib chiqiladi. Tadqiqot natijalaridan kelib chiqib, tashqi savdo aloqalarini diversifikatsiya qilish, eksport raqobatbardoshligini oshirish va global iqtisodiy beqarorlikka nisbatan milliy iqtisodiyot barqarorligini mustahkamlash bo&lsquo;yicha takliflar ishlab chiqish nazarda tutiladi. DOI: 10.5281/zenodo.23661018",
+    "landing_url": "https://zenodo.org/records/23661018",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Saidakbarova Madinaxon Anisbekovna",
+    "tags": "[\"Deglobalizatsiya, proteksionizm, savdo urushlari, xalqaro savdo, bojxona tariflari, savdo siyosati, iqtisodiy globallashuv, global qiymat zanjirlari, iqtisodiy xavfsizlik, savdo cheklovlari, eksport diversifikatsiyasi, O'zbekiston iqtisodiyoti\"]",
+    "last_seen_at": "2026-10-26T11:59:07.451153+00:00",
+    "vertical_suggested": "general"
+  },
+  {
     "id": "zenodo:23386234",
     "portal_id": "zenodo",
     "title": "DESIGNING AN AI-BASED ONLINE ADAPTIVE LEARNING SYSTEM FOR HIGHER EDUCATION: A CONCEPTUAL MODEL INTEGRATING MULTIDIMENSIONAL LEARNER MODELLING, KNOWLEDGE TRACING AND LMS INTEROPERABILITY",
@@ -20215,6 +20241,19 @@
     "vertical_suggested": "general"
   },
   {
+    "id": "zenodo:23657285",
+    "portal_id": "zenodo",
+    "title": "Data and code for: Continuous property-weighted adaptation with retained domain support for aqueous redox molecular generation",
+    "description": "This dataset provides the v66 paper-used data, original code, model checkpoints, frozen predictors and selected archived quantum-chemical records for Continuous property-weighted adaptation with retained domain support for aqueous redox molecular generation. The current comparison includes 16 paired fine-tuning seeds per backbone, 96 runs, 864 decoding cells and 864000 stored attempts across LSTM, TCN and TCN&ndash;LSTM. Hard10 and Continuous10 share the backbone-specific pretrained checkpoint, omit ChEMBL replay and use final epoch 10 after 8000 updates. Three prespecified primary tests use Bonferroni correction; only the TCN&ndash;LSTM contrast meets the recorded primary criterion. Other endpoints are descriptive. The archive retains the existing predictor cross-validation, replay comparisons and controls, 64-setting sensitivity sweep, earlier architecture/likelihood/motif diagnostics, the separate epoch-2-selected LSTM baseline, and the 50-candidate/8-calibration-molecule DFT records already used in v66. These retain separate protocols and are not pooled with the current comparison. The earlier three-seed no-replay pilot and unrelated campaigns are excluded. Four ZIPs hold the complete licensed local snapshot. File SHA256 hashes, exact source/protocol manifests, editable figures, 26 table CSVs, selected current and historical generator checkpoints and 174 existing Gaussian jobs support inspection and reproduction from stored evidence. Preparation introduced no training, generation, prediction, DFT or new hypothesis test. Licenses are component-specific: MIT for author-owned source code; CC BY 4.0 for author documentation, independent numerical annotations and artwork; CC BY-SA 3.0 for ChEMBL samples, generator weights and generated structure contributions; CC0 retained for original RedDB content. Mixed files are mapped in LICENSE_SCOPE.csv. The ChEMBL source release was not recorded; actual input hashes and preprocessing provenance are supplied. This work was supported by the Korea Institute of Energy Technology Evaluation and Planning (KETEP), and the Ministry of Trade, Industry &amp; Energy (MOTIE) of the Republic of Korea (No. 20224000000020). This work was also supported by the Ministry of Science and ICT (MSIT), Korea, under the ICT Challenge and Advanced Network of HRD (ICAN) support program (IITP-2024-RS-2024-00437186), supervised by the Institute for Information &amp; Communications Technology Planning &amp; Evaluation (IITP). DOI: 10.5281/zenodo.23657285",
+    "landing_url": "https://zenodo.org/records/23657285",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Lee, Sohyeon",
+    "tags": "[\"cheminformatics\", \"molecular generation\", \"continuous property weighting\", \"target-subset transfer learning\", \"aqueous redox molecules\", \"LSTM\", \"TCN\", \"reproducibility\"]",
+    "last_seen_at": "2026-10-26T11:58:44.799229+00:00",
+    "vertical_suggested": "general"
+  },
+  {
     "id": "zenodo:23536917",
     "portal_id": "zenodo",
     "title": "Data and code for: Leaf photosynthetic capacity and radial growth show no decline toward the northern range boundary of yellow birch",
@@ -20277,6 +20316,19 @@
     "publisher": "Park, Eun-Joo",
     "tags": "[\"lithium-ion battery pack\", \"legged robot\", \"mechanical qualification test\", \"fatigue damage spectrum\", \"shock response spectrum\", \"test tailoring\", \"sine dwell\"]",
     "last_seen_at": "2026-10-22T11:59:08.791525+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23660440",
+    "portal_id": "zenodo",
+    "title": "Data and code supplement: Scheduling unrelated parallel printing lines with shift calendars, single-copy tools and on-site photovoltaics",
+    "description": "Data and code supplement to the article \"Scheduling unrelated parallel printing lines with shift calendars, single-copy tools and on-site photovoltaics: a mixed-integer model with a conditional exactness result and a pre-specified comparison of evolutionary and exact methods\". The package allows the results of the article to be checked and recomputed. It contains: - the Python code of the model: the mixed-integer linear programme (Gurobi), the CP-SAT model, the common schedule evaluator, the calendar-aware decoder, nine multi-objective evolutionary algorithms (pymoo), the exact and hybrid methods, and all experiment and analysis scripts; - all 476 problem instances as JSON files with their SHA-256 identities (generated instances; no company production records were used); - the energy data of the real-tariff experiment (official Turkish tariff, PVGIS-SARAH3 PV series) and the Vallada&ndash;Ruiz small benchmark instances with their source; - all records of the exact methods (MILP, AUGMECON2, CP-SAT, long runs, benchmark reduction), the indicator values of every evolutionary run, and the complete run records of four representative instances; - the frozen pre-registration protocol with its addendum and deviation log, the boundary validation matrix of the closure logic, and tools that verify the package; - tables and figures of the article. The run records of all evolutionary runs (6.9 GB without chromosomes; 125 GB complete) are available from the authors on request. Code is released under the MIT licence and data and documents under CC BY 4.0; third-party data keep their own terms (see README.md). DOI: 10.5281/zenodo.23660440",
+    "landing_url": "https://zenodo.org/records/23660440",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Sabaner, Ali Yigit",
+    "tags": "[\"unrelated parallel machine scheduling\", \"photovoltaic self-consumption\", \"shift calendars\", \"multi-objective evolutionary algorithms\", \"mixed-integer linear programming\", \"NSGA-III\", \"benchmark validation\", \"reproducibility\"]",
+    "last_seen_at": "2026-10-26T11:58:44.798799+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -20562,7 +20614,20 @@
     "license_source": "explicit",
     "publisher": "Weaver, Miles",
     "tags": "[\"Community OR\", \"Learning\", \"Soft Systems Methodology\", \"Systems Thinking\", \"Sustainability\"]",
-    "last_seen_at": "2026-10-25T12:06:50.763458+00:00",
+    "last_seen_at": "2026-10-26T11:59:19.520528+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23598529",
+    "portal_id": "zenodo",
+    "title": "Deep-UV lensless holographic microscopy on visible CMOS sensors for low-dose centimeter-scale biochemical imaging - Dataset",
+    "description": "Dataset (MATLAB files) of holograms and reconstruction code used in: Piotr Arcab, Mikołaj Rogalski, Karolina Niedziela, Anna Chwastowicz, Emilia Wdowiak, Julia Dudek, Julianna Winnik, Paweł Matryba, Jolanta Mierzejewska, Małgorzata Lenarcik, Ewa Stępień, Piotr Zdańkowski, Grzegorz Szewczyk, Maciej Trusiak, &ldquo;Deep-UV lensless holographic microscopy on visible CMOS sensors for low-dose centimeter-scale biochemical imaging&rdquo;. &nbsp; Contents The dataset contains multi-height in-line holograms of an amplitude USAF resolution target acquired at &lambda; = 266 nm for pixel super-resolution (PSR) reconstruction. The following two files are provided: &nbsp; Multi-height hologram stack Data_USAF_HPB.mat The file contains a three-dimensional array I with dimensions [2162, 3816, 20], where Y and X denote the spatial dimensions of an individual hologram, and the third dimension indexes 20 holograms acquired at different camera-to-sample distances. The holograms were normalized by dividing each original camera frame by its Gaussian-filtered version (&sigma; = 60 pixels). The file also contains the corresponding acquisition and reconstruction parameters: dx &mdash; camera pixel size [&micro;m]. lambda &mdash; illumination wavelength [&micro;m]. zz &mdash; camera-to-sample distances in &micro;m, corresponding to the 20 holograms. xi_x, xi_y &mdash; subpixel shifts in X and Y, expressed in pixels relative to the first hologram. All variables are stored in single-precision format. &nbsp; MATLAB reconstruction code main.m A MATLAB script for multi-height pixel super-resolution (PSR) reconstruction with optional total variation (TV) denoising. &nbsp; Experimental details Holograms were acquired in a lensless digital in-line holographic microscopy (LDIHM) setup operating in the deep-ultraviolet (DUV) spectral range. Illumination was provided by a fixed-wavelength pulsed DUV laser (Teem Photonics SNU-02P-100, &lambda; = 266 nm, pulse duration &asymp; 550 ps, repetition rate &asymp; 6 kHz, output energy &gt; 0.3 &micro;J). Holograms were recorded using a CMOS camera (iDS uEye+ U3-38J2XLE Rev. 1.2, 3864 &times; 2176 pixels, 1.45 &micro;m pixel size). More information on the experimental configuration and reconstruction methodology can be found in the referenced article. &nbsp; Reconstruction parameters and procedure The Data_USAF_HPB.mat file contains both the normalized holograms and the parameters required for reconstruction, including the camera-to-sample distances (zz) and the lateral subpixel shifts (xi_x, xi_y) relative to the first hologram. The accompanying MATLAB script (main.m) performs iterative multi-height PSR reconstruction with successive upsampling factors of &times;1, &times;2, and &times;4. Optional total variation (TV) regularization is included for noise reduction and is enabled in the provided configuration. The script also calculates a reference reconstruction from the first hologram using single-frame angular spectrum (AS) back-propagation, enabling comparison with the multi-hologram PSR results. &nbsp; Relation to figures in the Supplementary Information The provided dataset corresponds to the high-photon-budget (HPB) amplitude USAF resolution target experiment presented in Fig. S2 (fourth row) of the Supplementary Information accompanying the referenced article. The dataset consists of 20 in-line holograms acquired at &lambda; = 266 nm with a camera exposure time of 15 ms. Figure S2 compares four datasets acquired at different exposure times (0.3, 0.5, 1, and 15 ms), reconstructed using three approaches: single-frame angular spectrum (AS) back-propagation, multi-frame pixel super-resolution (PSR), and PSR enhanced with total variation (TV) denoising. &nbsp; DOI: 10.5281/zenodo.23598529",
+    "landing_url": "https://zenodo.org/records/23598529",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Arcab, Piotr",
+    "tags": "[\"Deep-ultraviolet (DUV) holography\", \"Lensless digital in-line holographic microscopy\", \"Pixel super-resolution\", \"Computational imaging\", \"Angular spectrum propagation\", \"Total variation denoising\"]",
+    "last_seen_at": "2026-10-26T11:58:40.602550+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -21264,7 +21329,7 @@
     "license_source": "explicit",
     "publisher": "aourag, hafid",
     "tags": "[]",
-    "last_seen_at": "2026-10-25T12:06:16.918498+00:00",
+    "last_seen_at": "2026-10-26T11:59:02.749236+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -21460,6 +21525,19 @@
     "publisher": "Cabello, Violeta",
     "tags": "[\"affective arrangements\", \"socialecological systems\", \"Mar Menor\"]",
     "last_seen_at": "2026-10-24T12:11:34.589078+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23663316",
+    "portal_id": "zenodo",
+    "title": "Nuclear-Electronic Orbital Subsystem Density Functional Theory",
+    "description": "Data and Analysis Files for \"Nuclear-Electronic Orbital Subsystem Density Functional Theory This repository contains the input files, output data, and analysis scripts used to obtain the results reported in: Nuclear-Electronic Orbital Subsystem Density Functional Theory Denis G. Artiukhin &nbsp; arXiv: [10.48550/arXiv.2608.19834](https://doi.org/10.48550/arXiv.2608.19834) The calculations were performed using a development version of the Serenity program package containing the NEO-FDE implementation described in the paper. Contents: - structures/ &mdash; Molecular structures used in the calculations. - PESs/ &mdash; Calculations of one-dimensional potential energy surfaces of water dimers with different assignments of quantum protons. - large_scale_calcs/ &mdash; Examples of large-scale calculations of water clusters. - polarization/ &mdash; One-dimensional density plots illustrating nuclear density polarization effects. - cluster_energies/ &mdash; Energy calculations for water clusters of increasing size. - wall_times/ &mdash; Calculations of NEO-DFT, FDE, and NEO-FDE wall times as well as SCF iterations for water clusters of increasing size. The files in this repository contain the input data, numerical output, and analysis scripts used to obtain the results presented in the manuscript. Software The calculations were performed using a development version of Serenity containing the NEO-FDE implementation described in the paper. The NEO-FDE implementation will soon become available as part of a public Serenity release. Citation If you use the data or scripts from this repository, please cite: D. G. Artiukhin, *Nuclear-Electronic Orbital Subsystem Density Functional Theory*, arXiv:2608.19834 (2026). Please also cite the corresponding Zenodo record. DOI: 10.5281/zenodo.23663316",
+    "landing_url": "https://zenodo.org/records/23663316",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Artiukhin, Denis",
+    "tags": "[\"Nuclear-Electronic Orbital\", \"Subsystem Density Functional Theory\"]",
+    "last_seen_at": "2026-10-26T11:58:40.601479+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -21801,6 +21879,32 @@
     "vertical_suggested": "general"
   },
   {
+    "id": "zenodo:23642595",
+    "portal_id": "zenodo",
+    "title": "Resilience-Trajectory Geometry in Infrastructure Systems: Companion Data and Reproducibility Materials",
+    "description": "This repository provides the companion dataset and reproducibility materials for the systematic review Resilience-Trajectory Geometry in Infrastructure Systems: A Systematic Review, Taxonomy, and Metric-Compatibility Analysis . The review examines how the geometric properties of infrastructure resilience trajectories are represented, quantified, and reduced to resilience metrics across 226 disruption-related studies. The materials support transparent analysis of trajectory morphology, phase structure, event topology, evidence provenance, metric compatibility, and information loss. The repository includes: Study-level data: An author-approved bibliographic register of 226 included studies, a complete 226 &times; 17 categorical R5 dataset, a frozen 98-category dictionary, and complementary geometry and evidence-compatibility data. Reproducible analyses: Derived frequency tables, 193 event&ndash;service&ndash;observation&ndash;task validation cells, service aggregation and interdependency classifications, and supporting validation outputs. Search documentation: The exact search strategies executed on 6 September 2026 across Scopus, Web of Science Core Collection, IEEE Xplore, ScienceDirect, and Springer Nature Link, together with documented search counts. Computational materials: Six Python scripts for reproducing the released aggregate analyses and computational figures, editable TikZ sources for conceptual diagrams, and eight vector PDF figures. Research documentation: A proposed 20-item trajectory reporting checklist, a public coding guide, methodological provenance records, and SHA-256 checksums. The materials enable independent reproduction of the published categorical summaries and computational visualizations from the released data. They do not constitute a complete replayable archive of bibliographic screening or source-level adjudication. Third-party article full texts, proprietary bibliographic database exports, and access-controlled source-verification and adjudication records are excluded. Original author-generated data, figures, and documentation are distributed under Creative Commons Attribution 4.0 International (CC BY 4.0). Python scripts and associated software are licensed under the MIT License. DOI: 10.5281/zenodo.23642595",
+    "landing_url": "https://zenodo.org/records/23642595",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Honchar, Serhii",
+    "tags": "[\"infrastructure resilience\", \"resilience trajectories\", \"trajectory geometry\", \"resilience curves\", \"systematic review\", \"resilience metrics\", \"metric compatibility\", \"reproducibility\", \"coding framework\"]",
+    "last_seen_at": "2026-10-26T11:58:53.759963+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23634967",
+    "portal_id": "zenodo",
+    "title": "Revealing irreversible electrochemical response via active symmetry-constrained electrical perturbation sensing",
+    "description": "This dataset accompanies the manuscript &ldquo;A rapid and scalable observable for battery capacity loss detection enabled by symmetric bipolar pulse perturbations.&rdquo; It contains retired lithium-ion battery testing data together with the processed data products used for feature extraction, diagnostic analysis, and model development. The dataset supports a chemistry-inclusive workflow for studying electrochemical reversibility under bipolar perturbations and for building data-driven battery diagnostic models. It is intended to enable transparent reuse of the experimental data, processed features, and computational workflow associated with the study. Code availability The corresponding data-processing and modeling code, together with documentation and usage instructions, is publicly available at: https://github.com/terencetaothucb/symmetric-bipolar-perturbations Version history &nbsp; - Version 1 Version 1 was the initial public release of the dataset. It included the released raw battery-testing data, the intermediate and final outputs of the data-processing workflow, and initial example outputs from the diagnostic models. &nbsp; - Version 2 Version 2 is a data-completeness and reproducibility update. Relative to Version 1, it includes the following changes: The previously missing raw workbook for 68 Ah LFP cell No. 6 was added. The filename is LFP_C_68_B_6_SOC_5-80_Part_1-1_ID_02HCB68111211Y88F0000101.xlsx. This file completes the raw-data provenance for the cell that was already represented in the processed dataset. The complete Data_Process_Output package was reissued to provide a consistent set of intermediate and final processed data. The former Step 4 release was replaced by the unified Step4_SelectedFeatures_with_R0_Reff dataset. The scalar resistance features R0_avg and Reff_avg were added for all five C-rates. These values are the arithmetic averages of the resistance estimates obtained from the positive and negative bipolar pulses and are stored directly in the released Step 4 workbooks. A complete model-output example was added for one representative configuration: 20 Ah LFP, 5000 ms pulse width, SOC 40, and 0.5C. The model-output example covers six manuscript feature configurations: fai_irrev, R0_avg, Reff_avg, raw_U, fai_irrev_R0_avg, and fai_irrev_Reff_avg. Each feature configuration contains results from 100 random seeds and ten regression models, corresponding to 1,000 model-seed results per feature configuration. Redundant preliminary model-output examples were removed from the Version 2 upload. The retained six-case suite provides the complete reference example for the updated workflow. Except for the addition of the previously missing 68 Ah LFP cell No. 6 raw workbook, the underlying experimental measurements released in Version 1 have not been modified. The other Version 2 changes concern derived features, processed-data organization, model outputs, and reproducibility documentation. DOI: 10.5281/zenodo.23634967",
+    "landing_url": "https://zenodo.org/records/23634967",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Tao, Shengyu",
+    "tags": "[\"Lithium-Ion Batteries\", \"Battery Diagnostics\", \"State of Health\", \"Battery Management System\"]",
+    "last_seen_at": "2026-10-26T11:58:53.759801+00:00",
+    "vertical_suggested": "general"
+  },
+  {
     "id": "zenodo:23581074",
     "portal_id": "zenodo",
     "title": "Role of Coupling Symmetry in Shaping the Electronic Coherence and Ultrafast Photoisomerization Dynamics of a Retinal Mode",
@@ -21824,6 +21928,32 @@
     "publisher": "Feldmann, Johannes",
     "tags": "[]",
     "last_seen_at": "2026-10-20T12:03:34.629441+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23659447",
+    "portal_id": "zenodo",
+    "title": "SANOAT BUG' TA'MINOTI TIZIMLARIDA ISSIQLIK YO'QOTISHLARINI KAMAYTIRISH VA ENERGIYA TEJAMKOR TEXNOLOGIYALARNI TAKOMILLASHTIRISH",
+    "description": "Maqolada sanoat bug&lsquo; ta&rsquo;minotining generatsiya, taqsimlash, iste&rsquo;mol va kondensatni qaytarish bosqichlarida energiya yo&lsquo;qotishlarini kamaytirish choralari tahlil qilingan. Quvur izolyatsiyasi, bug&lsquo; tutqichlarining sozligi, kondensat qaytarilishi va o&lsquo;lchash-nazorat tadbirlarining o&lsquo;zaro bog&lsquo;liqligi ochib berilgan. Shartli hisoblash misolida kondensat issiqligini saqlash hisobiga qozonxonaga qo&lsquo;shimcha suvni qizdirish uchun talab etiladigan energiyaning kamayishi baholangan. Natijalar nazariy hisob va nashr qilingan texnik manbalar sintezi asosida olingan. DOI: 10.5281/zenodo.23659447",
+    "landing_url": "https://zenodo.org/records/23659447",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Yulbarsova Maftunaxon Adxamjon qizi",
+    "tags": "[\"bug' tarmog'i, issiqlik izolyatsiyasi, kondensat, bug' tutqichi, energiya auditi, qozonxona\"]",
+    "last_seen_at": "2026-10-26T11:58:44.799086+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23659498",
+    "portal_id": "zenodo",
+    "title": "SANOAT KORXONALARIDA CHIQINDI ISSIQLIKDAN QAYTA FOYDALANISH ORQALI ENERGIYA SAMARADORLIGINI OSHIRISHNING ILMIY-TEXNIK ASOSLARI",
+    "description": "Maqolada sanoat texnologik jarayonlarida tashqariga chiqariladigan issiqlik oqimlarining energetik qiymati, ularni inventarizatsiya qilish, issiqlik almashinuv qurilmalarini tanlash va iqtisodiy samaradorlikni baholash usullari tahlil qilinadi. Manbalarning harorat darajasi, ish rejimi hamda iste&rsquo;molchi bilan vaqt bo&lsquo;yicha muvofiqligi asosiy tanlash mezonlari sifatida ko&lsquo;rsatiladi. Shartli hisoblash misoli orqali rekuperator quvvati, yillik tejam va oddiy qoplanish muddati aniqlanadi. Xulosalar eksperiment natijasi emas, adabiyotlar tahlili va muhandislik hisoblariga tayanadi. DOI: 10.5281/zenodo.23659498",
+    "landing_url": "https://zenodo.org/records/23659498",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Yulbarsova Maftunaxon Adxamjon qizi",
+    "tags": "[\"chiqindi issiqlik, rekuperatsiya, eksergiya, issiqlik almashinuv apparati, energiya samaradorligi, iqtisodiy baholash\"]",
+    "last_seen_at": "2026-10-26T11:58:44.799040+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -21954,6 +22084,19 @@
     "publisher": "Mezina, Anzhelika",
     "tags": "[]",
     "last_seen_at": "2026-10-24T12:12:02.501427+00:00",
+    "vertical_suggested": "general"
+  },
+  {
+    "id": "zenodo:23384832",
+    "portal_id": "zenodo",
+    "title": "Shoreline and Nearshore Wave Hindcast and Forecast Data for New South Wales, Australia",
+    "description": "This dataset contains the shoreline and nearshore wave hindcast and one realization of forecast (EC-Earth3-Veg_R3_ssp370) for the entire New South Wales coast. The dataset comprises over 8,000 cross-shore transects spaced at 100-meter intervals along the NSW coast. For each transect, satellite-derived shoreline positions are provided at approximately bi-weekly intervals from 1984 to 2024, along with associated beach-face slopes. Nearshore wave parameters including significant wave height (H s ), peak period (T p ), mean wave period (T m02 ), as well as peak and mean wave directions (D p and D m ) are provided at the 10 m depth contour for each transect. The Hindcast (1979-2024) is hourly and the forecast (2015-2099) is daily.&nbsp; &nbsp; The shoreline data is in CoastSat_shorelines.zip. The data is structured as follows: There is a sub folder for each site (e.g. aus0045) In the site folder, there are 4 CSV files: time_series_tidally_corrected.csv : this file contains the tidally-corrected time-series of shoreline change along each transect belonging to the site (e.g. aus0045-0001, aus0045-0002 etc). This is the final product used for coastal change analyses. time_series_raw.csv : this file contains the raw time-series of shoreline change, which have not be tidally-corrected. Note that each image is taken at a different stage of the tide. tide_levels_fes2022 : this file contains the tide levels at the time of image acquisition extracted from FES2022 (global tide model publicly available on AVISO+). transect_beach_slopes.csv : this file contains the estimated beach slope for each transect. The wave&nbsp; hindcast data is stored in 10 NetCDF files with size ranging from 5 to 10 GB. File names (e.g., aus0045_aus0066.nc) indicate the range of beach site IDs included. All NetCDF files follow a consistent structure with two dimensions: time (in UTC) tran_id (Transect ID, matching transects_NSW.geojson). Variables include:&nbsp; significant wave height (H s ) peak period (T p ) mean wave periods (T m01 , T m02 ) mean wave directions (D m ) peak wave directions (D p ) Transect properties include: Longitude and Latitude: longitude and latitude of the intersection point between the extended transect and the 10 m depth contour (where waves are extracted) Distance: distance from the seaward end of the transect to the intersection Angle: angle between the transect and the 10m contour at the intersection In the current version, the wave forecast data only includes one realization driven by the EC-Earth3-Veg-R3 GCM for the SSP3-7.0 scenario. The forecast data is also stored as 10 NetCDF files in the EC-Earth3-Veg_R3_ssp370.zip. The nectcdf files follow the same structure as the hindcast data. Three supplementary geospatial layers are provided in GeoJSON format: ROI_NSW.geojson: the region of interest shorelines_NSW.geojson: a reference shoreline for each beach transects_NSW.geojson: the location of transects&nbsp; intersections_10m_QA.geojson: intersections of extended transects at 10 m contour with quality assurance. The validation of shoreline and wave data against groud truth are saved in the Comparison_results.zip DOI: 10.5281/zenodo.23384832",
+    "landing_url": "https://zenodo.org/records/23384832",
+    "license": "cc-by",
+    "license_source": "explicit",
+    "publisher": "Mao, Yongjing",
+    "tags": "[]",
+    "last_seen_at": "2026-10-26T11:58:49.381446+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -22473,7 +22616,7 @@
     "license_source": "explicit",
     "publisher": "Çelik Yılmaz, Özge",
     "tags": "[\"urban living labs\", \"urban ecological governance\", \"ULE framework\", \"institutional analysis\", \"Istanbul\", \"New York City\", \"comparative urban governance\", \"watershed governance\"]",
-    "last_seen_at": "2026-10-25T12:05:53.590616+00:00",
+    "last_seen_at": "2026-10-26T11:58:21.948404+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -22564,7 +22707,7 @@
     "license_source": "explicit",
     "publisher": "Çelik Yılmaz, Özge",
     "tags": "[\"urban living labs\", \"urban ecological governance\", \"ULE framework\", \"institutional analysis\", \"New York City\", \"Philadelphia\", \"Portland\", \"green infrastructure\"]",
-    "last_seen_at": "2026-10-25T12:05:53.588597+00:00",
+    "last_seen_at": "2026-10-26T11:58:21.946229+00:00",
     "vertical_suggested": "general"
   },
   {
@@ -22616,7 +22759,7 @@
     "license_source": "explicit",
     "publisher": "Çelik Yılmaz, Özge",
     "tags": "[\"urban living labs\", \"legal enablement\", \"comparative planning law\", \"ecosystem-based planning\", \"most-different systems design\", \"United States\", \"T\\u00fcrkiye\", \"experimental legislation\", \"institutional analysis\", \"watershed governance\"]",
-    "last_seen_at": "2026-10-25T12:05:53.587702+00:00",
+    "last_seen_at": "2026-10-26T11:58:21.943907+00:00",
     "vertical_suggested": "general"
   },
   {
