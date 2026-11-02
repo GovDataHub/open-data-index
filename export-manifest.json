@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-26T14:47:04.708775+00:00",
+  "generated_at": "2026-11-02T15:47:03.415220+00:00",
   "source": "GovDataHub pipeline (data.gov US, data.gov.uk, Socrata US/EU, Zenodo, Hugging Face, EIA, FRED, national CKAN portals: Canada, Australia, Argentina, Mexico; Wikidata/OpenAlex reference)",
-  "datasets_cleared": 4894,
-  "datasets_excluded_unlicensed": 2895,
+  "datasets_cleared": 5245,
+  "datasets_excluded_unlicensed": 2994,
   "buckets": {
-    "climate-energy": 1831,
-    "economy-small-business": 1299,
-    "general": 1764
+    "climate-energy": 2023,
+    "economy-small-business": 1345,
+    "general": 1877
   },
   "license_policy": "Only allowlisted licenses are exported: us-public-domain, public-domain, cc0, cc-by, ogl, ogl-3.0, and the Open Government Licence \u2013 Canada family (federal + provincial). See LICENSES.md for attribution requirements."
 }

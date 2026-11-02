@@ -16,13 +16,13 @@ New datasets land regularly. Get the notable ones in your inbox instead of check
 
 ## What's here
 
-**4,894 license-cleared datasets**, one row per dataset, in both CSV and JSON.
+**5,245 license-cleared datasets**, one row per dataset, in both CSV and JSON.
 
 | File | Datasets | Covers |
 |---|---|---|
-| `climate-energy.csv` / `.json` | 1,831 | Climate, energy, emissions, weather |
-| `economy-small-business.csv` / `.json` | 1,299 | Economy, business, employment, trade |
-| `general.csv` / `.json` | 1,764 | Harvested datasets outside the two verticals |
+| `climate-energy.csv` / `.json` | 2,023 | Climate, energy, emissions, weather |
+| `economy-small-business.csv` / `.json` | 1,345 | Economy, business, employment, trade |
+| `general.csv` / `.json` | 1,877 | Harvested datasets outside the two verticals |
 | `LICENSES.md` | — | License & attribution register — read before republishing |
 | `export-manifest.json` | — | Generation metadata and counts |
 
@@ -30,9 +30,9 @@ New datasets land regularly. Get the notable ones in your inbox instead of check
 
 The catalogs are also mirrored as Hugging Face datasets, with tabular preview and Hub search:
 
-- [GovDataHub/climate-energy-open-datasets](https://huggingface.co/datasets/GovDataHub/climate-energy-open-datasets) — 1,831 datasets
-- [GovDataHub/economy-small-business-open-datasets](https://huggingface.co/datasets/GovDataHub/economy-small-business-open-datasets) — 1,299 datasets
-- [GovDataHub/general-open-datasets](https://huggingface.co/datasets/GovDataHub/general-open-datasets) — 1,764 datasets
+- [GovDataHub/climate-energy-open-datasets](https://huggingface.co/datasets/GovDataHub/climate-energy-open-datasets) — 2,023 datasets
+- [GovDataHub/economy-small-business-open-datasets](https://huggingface.co/datasets/GovDataHub/economy-small-business-open-datasets) — 1,345 datasets
+- [GovDataHub/general-open-datasets](https://huggingface.co/datasets/GovDataHub/general-open-datasets) — 1,877 datasets
 
 ## Quick start
 
@@ -105,7 +105,7 @@ Details and pilot terms: [govdatahub.com](https://govdatahub.com)
 
 ## Freshness
 
-This export was generated **2026-10-26**. The pipeline re-polls its sources daily and audits resource links on a rotating sample; the catalogs on GitHub update with each automatic weekly release. Each row carries `last_seen_at` so you can check how fresh any entry is.
+This export was generated **2026-11-02**. The pipeline re-polls its sources daily and audits resource links on a rotating sample; the catalogs on GitHub update with each automatic weekly release. Each row carries `last_seen_at` so you can check how fresh any entry is.
 
 ## Columns
 
